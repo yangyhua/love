@@ -131,7 +131,7 @@ ol{
 	animation-delay: -2s;
 	-webkit-animation-duration: 7s;
 	animation-duration: 7s;
-	fill: hsla(0, 0%, 100%, .7)
+	fill: hsla(340, 100%, 70%, .4)
 }
 
 .waves-area .parallax>use:nth-child(2) {
@@ -139,7 +139,7 @@ ol{
 	animation-delay: -3s;
 	-webkit-animation-duration: 10s;
 	animation-duration: 10s;
-	fill: hsla(0, 0%, 100%, .5)
+	fill: hsla(340, 100%, 70%, .25)
 }
 
 .waves-area .parallax>use:nth-child(3) {
@@ -147,7 +147,7 @@ ol{
 	animation-delay: -4s;
 	-webkit-animation-duration: 13s;
 	animation-duration: 13s;
-	fill: hsla(0, 0%, 100%, .3)
+	fill: hsla(340, 100%, 70%, .1)
 }
 
 .waves-area .parallax>use:nth-child(4) {
@@ -155,7 +155,7 @@ ol{
 	animation-delay: -5s;
 	-webkit-animation-duration: 20s;
 	animation-duration: 20s;
-	fill: #fff
+	fill: hsla(340, 100%, 70%, .55)
 }
 
 @-webkit-keyframes move-forever {
