@@ -29,5 +29,6 @@
 	showSiteRuntime();
 </script>
 </body>
+<script type="text/javascript" src="https://freda.cn-gd.ufileos.com/flower/flower.js"></script>
 
 </html>
