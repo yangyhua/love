@@ -1,7 +1,8 @@
 
-  <div class="p-5 text-center ">
-    <h6>©<?php $this->options->title() ?></h6>
-    <p class="h6">Powered by Typecho ※ Theme is Brave</p>
+<div class="p-5 text-center ">
+  	<link rel="stylesheet" type="text/css" href="https://at.alicdn.com/t/font_2352616_iqir3bihvlf.css">
+    <h6>©2021 Freda <i class="iconfont icon-icon_love"></i> YYHua</h6>
+    <p class="h6">Powered by <a href="https://typecho.org/" target="blank" rel="nofollow"> Typecho </a> ※ Theme is <a href="https://blog.zwying.com/archives/59.html" target="blank">Brave</a></p>
   </div>
 
 
