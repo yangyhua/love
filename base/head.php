@@ -19,3 +19,15 @@
 </head>
 
 <body>
+<!-- fireworks1 -->
+<script type="text/javascript" src="https://freda.cn-gd.ufileos.com/firework/meme.js"></script>
+<canvas class="fireworks" style="position:fixed;left:0;top:0;z-index:99999999;pointer-events:none;"></canvas>
+<script type="text/javascript" src="https://freda.cn-gd.ufileos.com/firework/anime.min.js"></script>
+<script type="text/javascript" src="https://freda.cn-gd.ufileos.com/firework/fireworks.js"></script>
+<!-- fireworks2 not work well -->
+<!--
+<canvas class="fireworks" style="position:fixed;left:0;top:0;z-index:99999999;pointer-events:none;"> 
+</canvas>
+<script type="text/javascript" src="/usr/plugins/firework/anime.min.js"></script>
+<script type="text/javascript" src="/usr/plugins/firework/fireworks.js"></script>
+-->
