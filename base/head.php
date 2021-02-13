@@ -2,6 +2,10 @@
 <html lang="zh-cn">
 
 <head>
+	<style type='text/css'>
+	body {cursor: url(https://freda.cn-gd.ufileos.com/mouse/normal.png), default;}
+	a:hover{cursor: url(https://freda.cn-gd.ufileos.com/mouse/link.png), pointer;}
+	</style>
 	<meta charset="<?php $this->options->charset(); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title><?php $this->archiveTitle(array(
