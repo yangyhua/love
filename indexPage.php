@@ -16,23 +16,6 @@ $this->need('base/nav.php');
     </blockquote>
     <div class="row indexPlate">
         <div class="col-md-4">
-            <a href="<?php $this->options->blessingPageLink() ?>" class="card ">
-                <div class="card-body">
-                    <div class="row align-items-center">
-                        <div class="col-auto">
-                            <div class="avatar avatar-md">
-                                <img src="<?php $this->options->blessingPageIcon() ?>" alt="..." class="avatar-img rounded-circle">
-                            </div>
-                        </div>
-                        <div class="col">
-                            <p class="h5">祝福板</p>
-                            <p class="small text-muted mb-1">💌写下对我们的祝福</p>
-                        </div>
-                    </div>
-                </div>
-            </a>
-        </div>
-        <div class="col-md-4">
             <a href="/index.php/blog/" class="card">
                 <div class="card-body">
                     <div class="row align-items-center">
@@ -61,6 +44,23 @@ $this->need('base/nav.php');
                         <div class="col">
                             <p class="h5">Love List</p>
                             <p class="small text-muted mb-1">📜甜蜜瞬间有你陪伴</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="<?php $this->options->blessingPageLink() ?>" class="card ">
+                <div class="card-body">
+                    <div class="row align-items-center">
+                        <div class="col-auto">
+                            <div class="avatar avatar-md">
+                                <img src="<?php $this->options->blessingPageIcon() ?>" alt="..." class="avatar-img rounded-circle">
+                            </div>
+                        </div>
+                        <div class="col">
+                            <p class="h5">祝福板</p>
+                            <p class="small text-muted mb-1">💌写下对我们的祝福</p>
                         </div>
                     </div>
                 </div>
