@@ -25,7 +25,7 @@ $this->need('base/nav.php');
             <?php endwhile; ?>
         <?php else : ?>
             <article class="post">
-                <h2 class="post-title"><?php _e('没有找到内容'); ?></h2>
+                <h2 class="post-title"><center><?php _e(' ~_> Page Not Found <_~'); ?><center></h2>
             </article>
         <?php endif; ?>
         <?php $this->pageNav('&laquo; 前一页', '后一页 &raquo;'); ?>
