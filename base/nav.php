@@ -14,6 +14,25 @@
             </div>
         </div>
     </nav>
+    <div class="deng-box">
+    <div class="deng">
+        <div class="xian"></div>
+        <div class="deng-a">
+            <div class="deng-b"><div class="deng-t">新年</div></div>
+        </div>
+        <div class="shui shui-a"><div class="shui-c"></div><div class="shui-b"></div></div>
+    </div>
+</div>
+ 
+<div class="deng-box1">
+    <div class="deng">
+        <div class="xian"></div>
+        <div class="deng-a">
+            <div class="deng-b"><div class="deng-t">快乐</div></div>
+        </div>
+        <div class="shui shui-a"><div class="shui-c"></div><div class="shui-b"></div></div>
+    </div>
+</div>
     <section class="lover-background" style="background-image: url(<?php $this->options->heroimg(); ?>)"></section>
     <section class="container lover-container d-flex flex-column align-content-center justify-content-center">
         <div class="row align-items-center pb-5 lover">
