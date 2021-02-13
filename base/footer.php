@@ -5,7 +5,6 @@
     <p class="h6">Powered by <a href="https://typecho.org/" target="blank" rel="nofollow"> Typecho </a> ※ Theme is <a href="https://blog.zwying.com/archives/59.html" target="blank">Brave</a></p>
   </div>
 
-
 <script>
 	window.showSiteRuntime = function() {
 		site_runtime = $("#site_runtime");
@@ -19,7 +18,7 @@
 		i = 24 * 60 * 60 * 1000;
 		d = T / i;
 		D = Math.floor(d);
-		h = (d - D) * 24;
+		h = (d - D) * 24 + 8;
 		H = Math.floor(h);
 		m = (h - H) * 60;
 		M = Math.floor(m);
