@@ -16,13 +16,13 @@
 		now = new Date();
 		T = (now.getTime() - start.getTime());
 		i = 24 * 60 * 60 * 1000;
-		d = T / i;
+		d = T / i + 1/3;
 		D = Math.floor(d);
-		h = (d - D) * 24 + 8;
+		h = (d - D) * 24;
 		H = Math.floor(h);
 		m = (h - H) * 60;
 		M = Math.floor(m);
-		s = (m - M) * 60
+		s = (m - M) * 60;
 		S = Math.floor(s);
 		site_runtime.html("第 <span class=\"bigfontNum\">" + D + "</span> 天 <span class=\"bigfontNum\">" + H + "</span> 小时 <span class=\"bigfontNum\">" + M + "</span> 分钟 <span class=\"bigfontNum\">" + S + "</span> 秒");
 	};
