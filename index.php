@@ -4,7 +4,7 @@
  * 勇敢爱
  * @package     Brave
  * @author      Veen Zhao
- * @version     1.0
+ * @version     1.1
  * @link        https://blog.zwying.com
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
