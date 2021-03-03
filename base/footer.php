@@ -45,6 +45,7 @@
 <?php $this->footer(); ?>
 <?php if ($this->options->底部自定义) : $this->options->底部自定义(); ?><?php endif; ?>
 </body>
+<!--
 <script type="text/javascript" src="https://freda.cn-gd.ufileos.com/flower/flower.js"></script>
-
+-->
 </html>

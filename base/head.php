@@ -27,7 +27,9 @@
 </style>
 <body>
 <!--flower-->
+<!--
 <div id="clickCanvas" style=" position:fixed;left:0;top:0;z-index:999999999;pointer-events:none;"></div>
+-->
 <!-- fireworks1 -->
 <!--
 <script type="text/javascript" src="https://freda.cn-gd.ufileos.com/firework/meme.js"></script>
